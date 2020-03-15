@@ -3,7 +3,7 @@
 
 from setuptools import setup, find_packages
 
-name = "interpret-core"
+name = "interpret"
 # NOTE: Version is replaced by a regex script.
 version = "0.1.19"
 long_description = """
